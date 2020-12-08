@@ -11,3 +11,4 @@ Soluciones para el reto de Advent of code 2020.
 |   5   | [Día 5](src/day5/part1.js) | [Día 5](src/day5/part2.js) |
 |   6   | [Día 6](src/day6/part1.js) | [Día 6](src/day6/part2.js) |
 |   7   | [Día 7](src/day7/part1.js) | [Día 7](src/day7/part2.js) |
+|   8   | [Día 8](src/day8/part1.js) | [Día 8](src/day8/part2.js) |
